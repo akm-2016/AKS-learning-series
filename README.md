@@ -8,3 +8,5 @@ It has 6 parts:
 Part 1: Composing dockers
 
 Part 2: Compose docker with multiple files
+
+Later parts to be added. Stay tuned...
